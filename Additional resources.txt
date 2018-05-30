@@ -1,0 +1,30 @@
+Distances
+https://stackoverflow.com/questions/5529625/is-it-possible-to-specify-your-own-distance-function-using-scikit-learn-k-means
+	http://www.spectralpython.net/class_func_ref.html?highlight=kmeans#spectral.kmeans
+https://stackoverflow.com/questions/5529625/is-it-possible-to-specify-your-own-distance-function-using-scikit-learn-k-means
+https://stats.stackexchange.com/questions/81481/why-does-k-means-clustering-algorithm-use-only-euclidean-distance-metric
+https://stats.stackexchange.com/questions/32925/perform-k-means-or-its-close-kin-clustering-with-only-a-distance-matrix-not-p
+https://en.wikipedia.org/wiki/K-medoids
+https://en.wikipedia.org/wiki/K-medians_clustering
+https://www.kdnuggets.com/2017/08/comparing-distance-measurements-python-scipy.html
+
+How different distances affect clustering result
+https://research.ijcaonline.org/volume67/number10/pxc3886785.pdf
+https://ai.stanford.edu/~ang/papers/nips02-metric.pdf
+https://pdfs.semanticscholar.org/b3b4/445cb9a2a55fa5d30a47099335b3f4d85dfb.pdf
+https://arxiv.org/ftp/arxiv/papers/1405/1405.7471.pdf
+http://www.ijcncs.org/published/volume3/issue5/p5_3-5.pdf
+
+Mini Batch K-Means
+https://blog.dataiku.com/watch-a-clustering-algorithm-working-in-the-wild
+https://chrisalbon.com/machine_learning/clustering/minibatch_k-means_clustering/
+https://algorithmicthoughts.wordpress.com/2013/07/26/machine-learning-mini-batch-k-means/
+
+Comparison of the K-Means and MiniBatchKMeans clustering algorithms
+http://scikit-learn.org/stable/auto_examples/cluster/plot_mini_batch_kmeans.html
+
+Comparing different Cluster Algorithms on toy datasets
+http://scikit-learn.org/stable/auto_examples/cluster/plot_cluster_comparison.html
+
+Wiki List of algorithms
+https://en.wikipedia.org/wiki/List_of_algorithms#Statistics
